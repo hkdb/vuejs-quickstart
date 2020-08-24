@@ -17,7 +17,7 @@
           </div>
           <div class="column has-text-centered">
             <p>
-              <b>Support</b> us!
+              <b>Support us!</b> 
               <br>
               <!-- Place this tag where you want the button to render. -->
               <a class="github-button" href="https://github.com/hkdb/vuejs-quickstart" data-size="large" data-show-count="true" aria-label="Star hkdb/vuejs-quickstart on GitHub">
@@ -31,7 +31,7 @@
             </p>
           </div>
           <div class="column">
-            <b>Contact </b>us:
+            <b>Contact us:</b>
             <p>
               3DF Limited<br>
               Rm 1104, Crawford House<br>
