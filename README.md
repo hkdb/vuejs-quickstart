@@ -38,9 +38,9 @@ yarn lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-### CHANGE LOG
+## CHANGE LOG
 
-August 24, 2020 - Initial commit
+- August 24, 2020 - Initial commit
 
 ## HOW IT WAS CREATED:
 1. Used vue-cli to create project:

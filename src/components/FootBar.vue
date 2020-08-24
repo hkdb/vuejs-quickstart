@@ -1,5 +1,5 @@
 <template>
-  <footer class="foot-bar" style="padding-top: 30px;">
+  <footer class="foot-bar">
     <div class="container">
       <div class="content">
         <div class="columns">
@@ -64,4 +64,7 @@ export default {
 </script>
 
 <style lang="scss" scoped>
+.foot-bar {
+  padding-top: 30px;
+}
 </style>
